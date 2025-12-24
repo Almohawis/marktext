@@ -1,3 +1,4 @@
+<div dir="rtl">
 <p align="center"><img src="../../static/logo-small.png" alt="MarkText" width="100" height="100"></p>
 
 <h1 dir="rtl" align="center">MarkText</h1>
@@ -291,4 +292,5 @@ MarkText قيد التطوير، يرجى التأكد من قراءة <a href="
 <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmarktext%2Fmarktext?ref=badge_large">
   <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarktext%2Fmarktext.svg?type=large" alt="FOSSA Status">
 </a>
+</div>
 </div>
